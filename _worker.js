@@ -3,7 +3,7 @@
 
 import { connect } from 'cloudflare:sockets';
 
-const userID = '13516920-8ff7-4382-a55b-f0dc2c4378f7';
+const userID = '0111be58-a91c-48ca-a7da-6429691b26c3';
 
 const bestIP = "ipdb.rr.nu"; // 空字符串表示未设置
 const proxyIPs = ["ipdb.rr.nu"];
